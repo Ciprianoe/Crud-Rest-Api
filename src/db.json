@@ -1,0 +1,20 @@
+{
+    "products":[
+        {
+            "id": 0,
+            "name": "laptop"
+        },
+        {
+            "id": 1,
+            "name": "laptop"
+        },
+        {
+            "id": 2,
+            "name": "laptop"
+        },
+        {
+            "id": 3,
+            "name": "teclado"
+        }
+    ]
+}
